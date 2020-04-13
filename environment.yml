@@ -1,0 +1,12 @@
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - autopep8
+  - scipy
+  - pylint
+  - pytest
+  - pdoc3
+  - pip:
+    - biosppy
